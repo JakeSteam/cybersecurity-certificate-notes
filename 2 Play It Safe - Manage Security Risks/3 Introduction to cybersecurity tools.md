@@ -55,4 +55,4 @@
 
 Second module, still LOTS of focus on individual stories, how you "don't need x", whether that's maths, coding, etc.
 
-Presumably it's to keep those from a less typical background interested, although even I've noticed ~80% of the interviews are with women, as are all the course leaders!
+Presumably it's to keep those from a less typical background interested, although even I've noticed ~80% of the interviews are with women, as are all the course leaders! There is as much focus on diversity / individual's backgrounds as the actual technical content. Very odd.
