@@ -10,4 +10,7 @@ Miscellaneous notes made during study for [Google's Cybersecurity Professional C
 
 ## License
 
-Feel free to use anything in here for anything you want, except for [`glossary.md`](/glossary.md) which is [from Pixelated Dwarf](https://pixelateddwarf.com/cybersecurity-glossary/).
+Feel free to use anything in here for anything you want, except:
+
+1. [`glossary.md`](/glossary.md) which is [from Pixelated Dwarf](https://pixelateddwarf.com/cybersecurity-glossary/).
+2. Any diagrams, which were created by Google / Coursera.
