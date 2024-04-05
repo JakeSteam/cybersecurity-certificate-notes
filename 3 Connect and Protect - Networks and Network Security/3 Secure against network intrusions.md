@@ -32,7 +32,7 @@ Examples:
 
 ### tcpdump
 
-![](/3%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security/files/tcpdump.png)
+![](files/tcpdump.png)
 
 ### Packet sniffing
 

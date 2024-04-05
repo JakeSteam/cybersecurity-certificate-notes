@@ -18,7 +18,7 @@ So an example flow is device -> router -> modem -> internet -> modem -> router -
 
 ## Network models
 
-![](/3%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security/files/tcpip-vs-osi-models.png)
+![](files/tcpip-vs-osi-models.png)
 
 ### TCP/IP model
 
@@ -42,11 +42,11 @@ So an example flow is device -> router -> modem -> internet -> modem -> router -
 
 ## IPv4 packet
 
-![](/3%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security/files/ipv4-packet.png)
+![](files/ipv4-packet.png)
 
 ## IPv4 vs IPv6 header
 
-![](/3%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security/files/ipv4-vs-ipv6.png)
+![](files/ipv4-vs-ipv6.png)
 
 ## Feedback
 

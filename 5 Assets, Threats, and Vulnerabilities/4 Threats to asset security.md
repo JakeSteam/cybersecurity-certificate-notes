@@ -47,7 +47,7 @@ Also stated were the following, although they're more for end users:
 4. Ransomware: Encrypts data, requires payment to decrypt.
 5. Spyware: Gathers (and sells) data without consent.
 
-[![](/5%20Assets,%20Threats,%20and%20Vulnerabilities/files/malware.png)](/5%20Assets,%20Threats,%20and%20Vulnerabilities/files/malware.png)
+[![](files/malware.png)](files/malware.png)
 
 Cryptojacking malware to mine crypto is common too. Signs of cryptojacking:
 
