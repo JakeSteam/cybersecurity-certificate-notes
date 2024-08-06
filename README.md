@@ -4,6 +4,8 @@ Miscellaneous notes made during study for [Google's Cybersecurity Professional C
 
 This took ~3 weeks of occasional study, with certificates for each "Course", and [the overall certificate](https://coursera.org/verify/professional-cert/GLBE227BHPQ9).
 
+Full review: https://blog.jakelee.co.uk/google-cybersecurity-professional-certificate-review/
+
 ## Notes on notes
 
 1. I typically only note things that I suspect I'll forget, or that don't make sense immediately. As such, my notes are only a small subset of the course's full content.
